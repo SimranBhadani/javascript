@@ -37,3 +37,10 @@ const myFunction= function(){
 }
 
 console.log(typeof heros);
+
+// ****************************************************************
+
+// Stack(primitive) and Heap(Non-primitive)
+
+// stack-> copy banta h stack me
+// heap-> point karta h original value ko(reference dete hai)

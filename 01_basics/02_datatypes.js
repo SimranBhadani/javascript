@@ -9,6 +9,7 @@ console.log(4+4) // code readibility is important
 let name="simran"
 let marks=92
 let isLoggedIn=true
+let state; // o/p => undefined
 
 console.log(name)
  
